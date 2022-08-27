@@ -15,5 +15,8 @@
 
 <br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/U_Not_401?style=social)](https://twitter.com/U_Not_401)
 [![GitHub followers](https://img.shields.io/github/followers/Uno-Takashi?style=social)](https://github.com/Uno-Takashi)
