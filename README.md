@@ -6,6 +6,8 @@
   - [d-party - Chrome ウェブストア](https://chrome.google.com/webstore/detail/d-party/ibmlcfpijglpfbfgaleaeooebgdgcbpc)
 - [Lizard Runner](https://github.com/Uno-Takashi/Lizard-Runner)
   - [Lizard Runner · Actions · GitHub Marketplace](https://github.com/marketplace/actions/lizard-runner)
+- [checkmake-action](https://github.com/Uno-Takashi/checkmake-action)
+  - [checkmake action · Actions · GitHub Marketplace](https://github.com/marketplace/actions/checkmake-action)
 - [CastPaper](https://github.com/Uno-Takashi/CastPaper)
   - [Cast Paper - Chrome ウェブストア](https://chrome.google.com/webstore/detail/cast-paper/dkfpinocgkcocfagegdgjfinbbpkcpmd)  
 - [prompt2slip](https://github.com/SecHack365-Fans/prompt2slip/blob/main/README.md)
