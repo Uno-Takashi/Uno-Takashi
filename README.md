@@ -18,6 +18,11 @@
 <br/>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/U_Not_401?style=social)](https://twitter.com/U_Not_401)
