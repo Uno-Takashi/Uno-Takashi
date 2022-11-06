@@ -20,10 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python     15 mins         █████████████████░░░░░░░░   68.17 %
-TOML       5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-Docker     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
