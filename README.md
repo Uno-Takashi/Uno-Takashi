@@ -20,9 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       19 mins         ██████████████████████▓░░   90.32 %
-Docker       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
