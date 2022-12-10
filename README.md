@@ -20,7 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TOML                       35 mins         ███████░░░░░░░░░░░░░░░░░░   28.10 %
+YAML                       22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
+Markdown                   22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+Python                     21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
+Other                      17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
 ```
 
 <!--END_SECTION:waka-->
