@@ -20,12 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML         24 mins         ████████▓░░░░░░░░░░░░░░░░   35.12 %
-TypeScript   20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.50 %
-SCSS         12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-JSON         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-Markdown     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
