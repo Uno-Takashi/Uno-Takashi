@@ -20,7 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML         20 mins         ████████████████████████░   96.06 %
+TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
