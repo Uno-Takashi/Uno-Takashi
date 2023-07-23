@@ -20,11 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker     2 mins          █████████████░░░░░░░░░░░░   52.16 %
-JSON       1 min           █████████░░░░░░░░░░░░░░░░   35.36 %
-TOML       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-Markdown   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
